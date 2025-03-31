@@ -4,6 +4,6 @@ public class Class1_1 {
 
     public static void main(String[] args) {
 
-        System.out.println("First class in task 1.");
+        System.out.println("First class in task 2.");
     }
 }
